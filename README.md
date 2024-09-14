@@ -32,7 +32,12 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gizembg1m&show_icons=true&theme=dark)
 
 
+## ✨ Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+> “Coding is like art — every line of code brings you closer to building something amazing.”
+
 
 <!--
 **gizembg1m/gizembg1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
