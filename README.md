@@ -2,7 +2,7 @@
 
 <div align="center">
  <a href="https://github.com/gizembg1m">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=%Computer+Science+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Computer+Science+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
 
@@ -22,10 +22,17 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=raspberry-pi)
 
+## 📈 Languages Used
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Your Top Languages" />
+</div>
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gizembg1m&show_icons=true&theme=dark)
 
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!--
 **gizembg1m/gizembg1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
