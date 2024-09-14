@@ -8,7 +8,7 @@
 
 ## About Me 🚀
 - 🎓 I’m currently pursuing a degree in Computer Science.
-- 🧠 I'm passionate about Artificial Intelligence, Machine Learning, and Web Development.
+- 🧠 I'm passionate about  Web Development, Artificial Intelligence, Machine Learning, and IOT.
 - 🌍 I love contributing to open-source projects and collaborating with others.
 
 ## 🛠 Tech Stack
