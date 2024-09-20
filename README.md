@@ -10,7 +10,7 @@
 - 🎓 I’m currently pursuing a degree in Computer Science.
 - 🧠 I'm passionate about  Web Development, Artificial Intelligence, Machine Learning, and IOT.
 - 🌍 I love contributing to open-source projects and collaborating with others.
-  > “Coding is like art — every line of code brings you closer to building something amazing.”
+> “Coding is like art — every line of code brings you closer to building something amazing.”
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
