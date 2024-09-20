@@ -10,6 +10,7 @@
 - 🎓 I’m currently pursuing a degree in Computer Science.
 - 🧠 I'm passionate about  Web Development, Artificial Intelligence, Machine Learning, and IOT.
 - 🌍 I love contributing to open-source projects and collaborating with others.
+  > “Coding is like art — every line of code brings you closer to building something amazing.”
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -22,10 +23,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=raspberry-pi)
 
-## 📈 Languages Used
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Your Top Languages" />
-</div>
 
 
 ## 📊 GitHub Stats
@@ -36,7 +33,7 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-> “Coding is like art — every line of code brings you closer to building something amazing.”
+
 
 
 <!--
