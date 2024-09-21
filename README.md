@@ -1,9 +1,10 @@
 ## Hi there 👋
 <div align="center">
  <a href="https://github.com/gizembg1m">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Computer+Science+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=006400&center=true&vCenter=true&width=500&lines=Computer+Science+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
+
 
 
 
