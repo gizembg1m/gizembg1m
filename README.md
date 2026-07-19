@@ -27,10 +27,6 @@
 
 
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gizembg1m&show_icons=true&theme=dark)
-
-
 ## ✨ Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
