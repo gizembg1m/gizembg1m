@@ -9,7 +9,7 @@
 
 
 ## About Me 🚀
-- 🎓 I’m currently pursuing a degree in Computer Science.
+- 🎓 I am a Computer Science graduate.
 - 🧠 I'm passionate about  Web Development, Artificial Intelligence, Machine Learning, and IOT.
 - 🌍 I love contributing to open-source projects and collaborating with others.
 > “Coding is like art — every line of code brings you closer to building something amazing.”
