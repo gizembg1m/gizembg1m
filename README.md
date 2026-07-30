@@ -61,28 +61,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ---
 
-## 🚀 Featured Projects
 
-### 🪖 Helmet Detection
-Computer vision project that detects workers not wearing safety helmets in industrial environments using AI and generates reports.
-
-**Tech:** Python • FastAPI • MongoDB • Computer Vision
-
----
-
-### 💰 Pretio
-A personal finance application that calculates the **time cost** of purchases based on working hours.
-
-**Tech:** ASP.NET Core • C# • SQL Server
-
----
-
-## 📫 Connect with Me
-
-- 💼 LinkedIn: **linkedin.com/in/your-link**
-- 📧 Email: **yourmail@example.com**
-
----
 
 ## 📊 GitHub Stats
 
