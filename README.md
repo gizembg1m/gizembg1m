@@ -15,7 +15,7 @@
 
 💻 Interested in **Backend Development, Artificial Intelligence, Computer Vision, and Machine Learning.**
 
-🚀 Currently improving my skills in **C#, ASP.NET Core, Python, FastAPI, and MongoDB** by building real-world projects.
+🚀 Currently improving my skills in **C#, ASP.NET Core, and Python** by building real-world projects.
 
 🤝 I enjoy solving problems, learning new technologies, and collaborating on impactful software.
 
