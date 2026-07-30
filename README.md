@@ -1,50 +1,93 @@
-## Hi there 👋
-<div align="center">
- <a href="https://github.com/gizembg1m">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=006400&center=true&vCenter=true&width=500&lines=Computer+Science+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
- </a>
-</div>
+<h1 align="center">Hi 👋, I'm Gizem</h1>
+<h3 align="center">Computer Science Graduate | Backend Developer | AI Enthusiast</h3>
 
+<p align="center">
+  <a href="https://github.com/gizembg1m">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Backend+Developer;ASP.NET+Core+%7C+Python+%7C+AI;Always+Learning+New+Technologies" />
+  </a>
+</p>
 
+---
 
+## 👩‍💻 About Me
 
-## About Me 🚀
-- 🎓 I am a Computer Science graduate.
-- 🧠 I'm passionate about  Web Development, Artificial Intelligence, Machine Learning, and IOT.
-- 🌍 I love contributing to open-source projects and collaborating with others.
-> “Coding is like art — every line of code brings you closer to building something amazing.”
+🎓 Computer Science graduate passionate about software development.
+
+💻 Interested in **Backend Development, Artificial Intelligence, Computer Vision, and Machine Learning.**
+
+🚀 Currently improving my skills in **C#, ASP.NET Core, Python, FastAPI, and MongoDB** by building real-world projects.
+
+🤝 I enjoy solving problems, learning new technologies, and collaborating on impactful software.
+
+---
 
 ## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
-![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=raspberry-pi)
 
+### 💻 Languages
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-## ✨ Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🚀 Backend & APIs
 
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+### 🗄️ Databases
 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
+### 🤖 AI & Computer Vision
 
-<!--
-**gizembg1m/gizembg1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-Here are some ideas to get you started:
+### 🔧 Tools & DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+### ⚡ Embedded Systems
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+---
+
+## 🚀 Featured Projects
+
+### 🪖 Helmet Detection
+Computer vision project that detects workers not wearing safety helmets in industrial environments using AI and generates reports.
+
+**Tech:** Python • FastAPI • MongoDB • Computer Vision
+
+---
+
+### 💰 Pretio
+A personal finance application that calculates the **time cost** of purchases based on working hours.
+
+**Tech:** ASP.NET Core • C# • SQL Server
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: **linkedin.com/in/your-link**
+- 📧 Email: **yourmail@example.com**
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=gizembg1m&show_icons=true&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=gizembg1m&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gizembg1m&layout=compact&hide_border=true)
