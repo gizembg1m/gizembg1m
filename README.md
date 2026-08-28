@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/gizembg1m">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Backend+Developer;ASP.NET+Core+%7C+Python+%7C+AI;Always+Learning+New+Technologies" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Always+Learning+New+Technologies" />
   </a>
 </p>
 
