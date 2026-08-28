@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gizem</h1>
-<h3 align="center">Computer Science Graduate | Backend Developer | AI Enthusiast</h3>
+<h3 align="center">Computer Science Graduate | Software Developer </h3>
 
 <p align="center">
   <a href="https://github.com/gizembg1m">
